@@ -1,9 +1,5 @@
 # Welcome to your Lovable project
 
-## Project info
-
-**URL**: https://lovable.dev/projects/0e0c09ab-6969-4b15-a313-594d9c3dabf9
-
 ## How can I edit this code?
 
 There are several ways of editing your application.
@@ -72,8 +68,9 @@ To connect a domain, navigate to Project > Settings > Domains and click Connect 
 
 Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
 
-
-
+## Open
+cd your location
 CMD 1: npm run start:server
 CMD 2: npm run dev
+[https:](http://localhost:8080/)
 
